@@ -1,0 +1,66 @@
+
+ESTOS MRTODOS SE PRUEBAS DESDE LA EXTENCION: https://reqbin.com/
+
+http://localhost:5035/api/v1/pokemon/crearunpoke
+http://localhost:5035/api/v1/pokemon/mostrarunpoke/{Id}
+http://localhost:5035/api/v1/pokemon/crearmuchospoke
+http://localhost:5035/api/v1/pokemon/mostrarpokeportipo/{Tipo}
+http://localhost:5035/api/v1/pokemon/actualizarpoke/{Id}
+ http://localhost:5035/api/v1/pokemon/eliminarpoke/{Id}
+
+{
+  "Id": 1,
+  "Nombre": "Destructor",
+  "Tipo": "Acuatico",
+  "Defensa": 14.89,
+  "Habilidad": 15
+  
+},
+
+{
+  "Id": 2,
+  "Nombre": "Indomable",
+  "Tipo": "Terreste",
+  "Defensa": 54.12,
+  "Habilidad": [15,12,7]
+  
+},
+
+{
+  "Id": 3,
+  "Nombre": "Especial",
+  "Tipo": "Terreste",
+  "Defensa": 4.12,
+  "Habilidad": [55,2,70]
+  
+},
+
+{
+  "Id": 4,
+  "Nombre": "Bendecido",
+  "Tipo": "Acuatico",
+  "Defensa": 15.14,
+  "Habilidad": [12,22,1]
+  
+},
+
+{
+  "Id": 5,
+  "Nombre": "Magicrazy",
+  "Tipo": "Aereo",
+  "Defensa": 89.89,
+  "Habilidad": 16
+  
+},
+
+{
+  "Id": 6,
+  "Nombre": "Sensaflow",
+  "Tipo": "Terreste",
+  "Defensa": 42.82,
+  "Habilidad": [15,88,9]
+  
+}
+
+
+
